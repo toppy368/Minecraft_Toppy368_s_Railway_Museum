@@ -8,18 +8,18 @@
 
 ##如何下載此專案及遊戲存檔資料夾
 請下載此專案，可透過紅框中的兩個按鈕進下載此專案
-![image] (https://github.com/toppy368/Minecraft_Toppy368_s_Railway_Museum/blob/master/Readmd_Images/Project_Download.png)
+![image] (https://github.com/toppy368/Minecraft_Toppy368_s_Railway_Museum/blob/master/Readme_Images/Project_Download.png)
 註解說明：在Github的專案視窗中，可透過紅框的兩種按鈕下載專案資料夾，紅框左邊為Github客戶端下載點、紅框右邊可透過網頁端下載打包好的專案資料夾。
 
 ##安裝遊戲存檔使用說明 (以 Windows7 為例)
 1. 解壓縮專案資料夾，並檢查資料夾結構
-![image] (https://github.com/toppy368/Minecraft_Toppy368_s_Railway_Museum/blob/master/Readmd_Images/Setup_1.png)
+![image] (https://github.com/toppy368/Minecraft_Toppy368_s_Railway_Museum/blob/master/Readme_Images/Setup_1.png)
 註解說明：這是本專案資料夾的主結構，無論透過Github克隆複製過來，或是ZIP解壓縮，都會看到這種格式，遊戲存檔為Toppy368's Railway Museum_1.8.9。
 
 2. 將Toppy368's Railway Museum_1.8.9資料夾複製到別處(備用)
 
 3. 按下"開始"按鈕，並於搜尋欄內搜尋%appdata%，並點開Roaming資料夾
-![image] (https://github.com/toppy368/Minecraft_Toppy368_s_Railway_Museum/blob/master/Readmd_Images/Setup_1.png)
+![image] (https://github.com/toppy368/Minecraft_Toppy368_s_Railway_Museum/blob/master/Readme_Images/Setup_1.png)
 XP使用者說明：開始→執行後，輸入%appdata%也可達到同樣效果
 
 ...(未完待續)
