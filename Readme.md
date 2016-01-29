@@ -19,7 +19,7 @@
 2. 將Toppy368's Railway Museum_1.8.9資料夾複製到別處(備用)
 
 3. 按下"開始"按鈕，並於搜尋欄內搜尋%appdata%，並點開Roaming資料夾
-
+![image] (https://github.com/toppy368/Minecraft_Toppy368_s_Railway_Museum/blob/master/Readmd_Images/Setup_1.png)
 XP使用者說明：開始→執行後，輸入%appdata%也可達到同樣效果
 
 ...(未完待續)
