@@ -19,6 +19,10 @@
 2. 按下"開始"按鈕，並於搜尋欄內搜尋%appdata%，並點開Roaming資料夾
 ![image] (https://github.com/toppy368/Minecraft_Toppy368_s_Railway_Museum/blob/master/Readme_Images/Setup_2.png)
 
-XP使用者說明：開始→執行後，輸入%appdata%也可達到同樣效果
+Windows XP使用者說明：XP使用者說明：開始→執行後，輸入%appdata%也可達到同樣效果
+
+3. 開啟 .Minecraft 資料夾，並進入放置存檔的saves資料夾
+![image] (https://github.com/toppy368/Minecraft_Toppy368_s_Railway_Museum/blob/master/Readme_Images/Setup_3.png)
+![image] (https://github.com/toppy368/Minecraft_Toppy368_s_Railway_Museum/blob/master/Readme_Images/Setup_4.png)
 
 ...(未完待續)
