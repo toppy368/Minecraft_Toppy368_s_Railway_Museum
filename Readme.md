@@ -21,8 +21,13 @@
 
 Windows XP使用者說明：XP使用者說明：開始→執行後，輸入%appdata%也可達到同樣效果
 
-3. 開啟 .Minecraft 資料夾，並進入放置存檔的saves資料夾
+3. 開啟 .Minecraft 資料夾，並進入放置存檔的saves資料夾(備用，請勿關閉此資料夾)
 ![image] (https://github.com/toppy368/Minecraft_Toppy368_s_Railway_Museum/blob/master/Readme_Images/Setup_3.png)
 ![image] (https://github.com/toppy368/Minecraft_Toppy368_s_Railway_Museum/blob/master/Readme_Images/Setup_4.png)
 
+4. 複製第一步的專案資料夾
+![image] (https://github.com/toppy368/Minecraft_Toppy368_s_Railway_Museum/blob/master/Readme_Images/Project_Download.png)
+回到第一步的地方，將Toppy368's Railway Museum_1.8.9資料夾複製下來
+
+5. 回到.Minecraft 資料夾，將Toppy368's Railway Museum_1.8.9貼到saves資料夾
 ...(未完待續)
