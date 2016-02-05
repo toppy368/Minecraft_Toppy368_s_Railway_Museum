@@ -28,9 +28,14 @@ Windows XP使用者說明：XP使用者說明：開始→執行後，輸入%appd
 ![image] (https://github.com/toppy368/Minecraft_Toppy368_s_Railway_Museum/blob/master/Readme_Images/Project_Download.png)
 回到第一步的地方，將Toppy368's Railway Museum_1.8.9資料夾複製下來
 
-5. 回到.Minecraft 資料夾，將Toppy368's Railway Museum_1.8.9貼到saves資料夾
-![image] (https://github.com/toppy368/Minecraft_Toppy368_s_Railway_Museum/blob/master/Readme_Images/Setup_4.png)
-將第三步的視窗打開，進入saves資料夾，將專案資料夾的Toppy368's Railway Museum_1.8.9貼到這個資料夾就完成了 ！
+5. 回到 .Minecraft 資料夾，將Toppy368's Railway Museum_1.8.9貼到saves資料夾
+![image] (https://github.com/toppy368/Minecraft_Toppy368_s_Railway_Museum/blob/master/Readme_Images/Setup_5.png)
+將第三步的視窗打開，進入saves資料夾，將專案資料夾的Toppy368's Railway Museum_1.8.9貼到這個資料夾就完成了 !
 
+6. 開啟 Minecraft 主程式，進入單人模式，確定地圖是否正常運作 ? 
+![image] (https://github.com/toppy368/Minecraft_Toppy368_s_Railway_Museum/blob/master/Readme_Images/Setup_6.png)
+![image] (https://github.com/toppy368/Minecraft_Toppy368_s_Railway_Museum/blob/master/Readme_Images/Setup_7.png)
+![image] (https://github.com/toppy368/Minecraft_Toppy368_s_Railway_Museum/blob/master/Readme_Images/Setup_8.png)
+開啟Minecraft主程式，確認地圖檔是否正常運作，以上是單人模式的測試方法，如果你有自己的設定檔，不一定要照此步驟用預設的設定檔執行它，只要程式能正確開啟地圖並看到建築物就等於安裝成功了 ! 
 
-...(未完待續)
+其他用途說明：此地圖檔亦可用於另開伺服器，但詳細的步驟並不在本次的安裝說明中，詳情請參考網路上的其他說明。
