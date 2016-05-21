@@ -4,7 +4,7 @@
 ##授權方式
 雖然本檔案屬於二進位檔，並非"程式"，但因為內容檔案如相片影片等二進位檔案一樣具有著作權，為了方便大家拆解修改本作品，本專案的授權方式以公有領域媒體素材方式處理。(類似CC0授權)
 
-本專案選用的授權方式為GNU General Public License v3.0，詳情請訪問本目錄的LICENSE.txt檔案，本專案"全部"的文件皆適用此授權檔，包含整個Minecraft_Toppy368_s_Railway_Museum(以下簡稱"專案主資料夾")、及存檔包裝Toppy368's Railway Museum_1.8.9(以下簡稱"遊戲存檔資料夾")。
+本專案選用的授權方式為MIT License，詳情請訪問本目錄的LICENSE.txt檔案，本專案"全部"的文件皆適用此授權檔，包含整個Minecraft_Toppy368_s_Railway_Museum(以下簡稱"專案主資料夾")、及存檔包裝Toppy368's Railway Museum_1.8.9(以下簡稱"遊戲存檔資料夾")。
 
 為了避免安裝過程造成授權檔遺失，因此LICENSE.txt會在專案主目錄及遊戲存檔資料夾各放一份，避免遺漏。
 
